@@ -3,7 +3,7 @@ description: LaTeX template for academic thesis and dissertations
 google_analytics: UA-66497615-1
 show_downloads: true
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
